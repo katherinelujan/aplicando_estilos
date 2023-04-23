@@ -26,7 +26,7 @@ p {
 .contenedorTres {
     padding: 10px;
     background-color: #0d0a0b;
-    background-image: url(/img/01.jpg);
+    background-image: url(../img/01.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -35,7 +35,7 @@ p {
 .contenedorCuatro {
     padding: 10px;
     background-color: #f42b03;
-    background-image: url(/img/02.jpg);
+    background-image: url(../img/02.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
